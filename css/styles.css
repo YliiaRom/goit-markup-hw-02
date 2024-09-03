@@ -122,18 +122,14 @@ color: #2e2f42;
   letter-spacing: 0.04em;
   color: #fff;
   background: #4d5ae5;
-  border-radius: 4px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);  border-radius: 4px;
-  padding: 16px 32px;
   width: 169px;
   height: 56px;
   cursor: pointer;
 }
-.top-button:hover {
-  background: #404bbf;
-}
+
+.top-button:hover,
 .top-button:focus {
-  background-color: #404bbf;
+background-color: #404bbf;
 }
 /* .................БЛОК-2-features....................... */
 .features-title {
